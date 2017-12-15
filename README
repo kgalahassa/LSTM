@@ -1,0 +1,10 @@
+'''
+    The core package is dedicated to Recurrent Network with Long-Short term memory (LSTM)
+    This function was initially based on open source code from Mozilla DeepSpeech:
+    https://github.com/mozilla/DeepSpeech/blob/master/DeepSpeech.py
+
+    # This Source Code Form is subject to the terms of the Mozilla Public
+    # License, v. 2.0. If a copy of the MPL was not distributed with this
+    # file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+---
